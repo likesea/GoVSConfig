@@ -1,0 +1,14 @@
+ <?xml version="1.0" encoding="utf-8" ?>
+ <profile>
+ <dev>
+   <AppID>10010</AppID>
+   <LoggingServer.V2.IP>dev_dev</LoggingServer.V2.IP>
+   <SMSSendCode>sms111</SMSSendCode>
+  </dev>
+  <fws>
+     <AppID>10011</AppID>
+   <LoggingServer.V2.IP>fws_fws</LoggingServer.V2.IP>
+   <SMSSendCode>sms222</SMSSendCode>
+  </fws>
+</profile>
+  
